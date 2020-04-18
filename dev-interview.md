@@ -1,6 +1,6 @@
 Decisions Developer Interview
 
-# General
+# Life
 
 1. Can you tell us about your common working day?
 2. What the responsibilities and role you take on your current job?
@@ -11,18 +11,18 @@ Decisions Developer Interview
 7. Do you make anything to increase the codebase maintanability level?
 8. Do you visit the conferences/meetups? Why you do or don't?
 9. How do you like being developer and why?
+10. What’s your most success and failure stories?
 
-Programming
-Что такое ООП? 3 основных принципа?
-Какие Принципы знаешь? Solid? Kiss, dry. 
-Dependency Injection. Какие способы внедрения существуют? Плюсы/минусы.
-Паттерны? Какие паттерны ты использовал в своей работе?
-С какими системами контроля версий ты знаком? Чем отличается Git от SVN?
-Какие команды GIT ты чаще всего используешь?
-Какие способы или инструменты для нахождения багов ты используешь?
-Какие инструменты для тестирования производительности ты использовал?
+# Programming
 
-C#
+1. What is OOP? 3 main principles?
+2. Principles. SOLID, KISS, DRY etc.
+3. Patterns. Which pattern you have used in your practice?
+4. Which Control Version Systems you've been used? What's the difference between SVN and GIT? Which Git commands are mostly used?
+5. What approaches or tools you use to debug?
+6. Have you ever measure the performance? If yes, what tool(s) you used?
+
+# C#
 
 Extension methods
 Yield
@@ -39,6 +39,7 @@ HTTP запросы? Get vs. Post?
 Testing
 
 Как ты тестируешь свой код? Автотесты или ручное тестирование?
+
 Писал ли ты тесты? Если да, то какие?
 Какие виды тестов и инструменты для тестирования ты знаешь?
 В чем разница между юнит тестами и интеграционными тестами?
@@ -74,4 +75,3 @@ CSS
 Что такое специфичность?
 
 
-What’s your most success and failure stories?
