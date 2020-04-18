@@ -15,7 +15,7 @@
 
 ## Programming
 
-1. What is OOP? 3 main principles?
+1. What is OOP? Three main object-oriented design principles?
 2. Principles. SOLID, KISS, DRY etc.
 3. Patterns. Which pattern you have used in your practice?
 4. Which Control Version Systems you've been used? What's the difference between SVN and GIT? Which Git commands are mostly used?
@@ -24,7 +24,7 @@
 
 ## Backend/Database
 
-1. Multithreading.
+1. Multithreading. [extend].
 2. Which HTTP запросы do you know? `Get` vs. `Post`?
 3. What's the difference between `Http` and `Https`?
 4. What is ORM? Which ones are known?
@@ -39,9 +39,14 @@
 
 ## CSharp
 
-1. Extension methods.
-2. Yield.
-3. What's difference between `throw` and `throw ex`?
+1. How does C# handle encapsulation?
+2. Explain nullable types.
+3. Extension methods.
+4. What's difference between `throw` and `throw ex`?
+5. When you would choose to define a type as a `struct` instead of `class` and why? 
+6. Stack vs. Heap?
+7. Yield.
+8. Generics.
 
 ## JavaScript
 
