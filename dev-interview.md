@@ -1,6 +1,6 @@
-Decisions Developer Interview
+# Decisions Developer Interview
 
-# Life
+## Life
 
 1. Can you tell us about your common working day?
 2. What the responsibilities and role you take on your current job?
@@ -13,65 +13,58 @@ Decisions Developer Interview
 9. How do you like being developer and why?
 10. What’s your most success and failure stories?
 
-# Programming
+## Programming
 
 1. What is OOP? 3 main principles?
 2. Principles. SOLID, KISS, DRY etc.
 3. Patterns. Which pattern you have used in your practice?
 4. Which Control Version Systems you've been used? What's the difference between SVN and GIT? Which Git commands are mostly used?
-5. What approaches or tools you use to debug?
-6. Have you ever measure the performance? If yes, what tool(s) you used?
+5. What approaches or tools you use to debug and troubleshoot?
+6. Have you ever measure the performance? If yes, what tool(s) you find useful?
 
-# C#
+## Backend/Database
 
-Extension methods
-Yield
-Throw vs. Throw ex. 
+1. Multithreading.
+2. Which HTTP запросы do you know? `Get` vs. `Post`?
+3. What's the difference between `Http` and `Https`?
+4. What is ORM? Which ones are known?
+5. When you may need to write up a Stored Procedure?
+6. What's the difference between `InnerJoin` and `LeftJoin`?
 
-Backend/Database
-Многопоточность.
-HTTP запросы? Get vs. Post?
-В чём разница между http и https?
-Какие инструменты для автоматизации работы с базами данных ты использовал? Что такое ORM?
-Когда появляется необходимость в Stored Procedures?
-Чем InnerJoin отличается от LeftJoin?
+## Testing
 
-Testing
+1. Do you test your code? How you do it?
+2. Do you write Automated Tests?
+3. What types of Automated Tests you know? Unit Tests vs. Integration vs. End-to-End?
 
-Как ты тестируешь свой код? Автотесты или ручное тестирование?
+## CSharp
 
-Писал ли ты тесты? Если да, то какие?
-Какие виды тестов и инструменты для тестирования ты знаешь?
-В чем разница между юнит тестами и интеграционными тестами?
-Используешь ли ты End-to-End тестирование?
-Что такое линтеры кода и для чего они нужны?
+1. Extension methods.
+2. Yield.
+3. What's difference between `throw` and `throw ex`?
 
-JavaScript
+## JavaScript
 
-В чём разница между var, let, const? Какова область видимости var?
-Что такое this в JavaScript? Как явно задать контекст для функции?
-В чём отличие function и стрелочной функции?
-Что такое замыкание?
-Что такое функция высшего порядка?
-Что такое Promise?
-Что такое Ajax?
-Допустим тебе необходимо сохранить некоторые данные в браузере, например, токен авторизации, что ты будешь для этого использовать? Какие виды хранилищ ты знаешь (cookies, sessions, localStorage, sessionStorage, indexedDB)?
-Асинхронная модель.
-Что будет результатом выполнения функции (a || b && c )
+1. Difference `var` vs. `let` vs. `const` ?
+2. What is `this`? How to explicitely set context for a function?
+3. `function` vs. Arrow function?
+4. Closure?
+5. Higher order function?
+6. Ajax?
+7. Promise? Async/Await?
+8. Where would you save the autorization token? Cookies, sessions, localStorage, sessionStorage, indexedDB.
 
-HTML
+## HTML
 
-Какие HTML 5 теги ты знаешь? Для чего они нужны?
-Что такое доступность сайта/веб-приложения? Почему она важна?
-Для чего используются data-* атрибуты в коде?
+1. What HTML 5 tags you know? Why they were introduced?
+2. What is the website accessibility? Why it is important?
 
-CSS
-Что ты будешь использовать чтобы по-разному отобразить контент на устройствах с разным разрешением?
-Как применить стили только к определенному браузеру (IE, Chrome, Firefox)? Можно ли сделать это только средствами CSS?
-С какими проблемами при написании CSS ты сталкивался?
-Для чего используется less? Какие проблемы он решает?
-Что такое псевдо элементы и для чего они используются?
-Какие display бывают? Display block vs. inline-block
-Что такое специфичность?
+## CSS
 
-
+1. How would you make the content to look different on devices with different resolution?
+2. Can you apply styles only for specific browsers in CSS?
+3. What display types you know? block vs. inline-block.
+4. What is CSS preprocessor and what kind of problems they solve?
+5. What is pseudo-elements and when they can be used?
+6. What is specificity?
+7. What kind of problems you faced using CSS?
