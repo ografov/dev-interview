@@ -2,20 +2,20 @@
 
 ## Life
 
-1. Can you tell us about your common working day?
-2. What the responsibilities and role you take on your current job?
-3. What was your recent project/task? What kind of problem you face and how you solved it?
-4. Do you have a code review at your current job? If you do, then how it is going? If you have any kind of argue with your colleague how do you solve it?
-5. How do you react when your coworker mcking a code review of your code aollcommentbsaup a  hen someone and explains you thaly  something could be solved different or better?
+1. Can you describe your common working day?
+2. What are the responsibilities and role you take on your current job?
+3. What was your recent project/task? Did you face with any interesting problem and how did you solve it?
+4. Do you have a code review at your current job? If you do, then how it is going? If you have any kind of argue with your colleague how do you settle it?
+5. How do you react when your coworker doing your code review and let you know that something could be done different o better?
 6. Do you have some Pet Projets? Do you spend your personal time for programming study?
 7. Do you make anything to increase the codebase maintanability level?
 8. Do you visit the conferences/meetups? Why you do or don't?
 9. How do you like being developer and why?
 10. What’s your most success and failure stories?
 
-## Programming
+## General
 
-1. What is OOP? Three main object-oriented design principles?
+1. OOP. Three main object-oriented design principles?
 2. Principles. SOLID, KISS, DRY etc.
 3. Patterns. Which pattern you have used in your practice?
 4. Which Control Version Systems you've been used? What's the difference between SVN and GIT? Which Git commands are mostly used?
@@ -31,12 +31,6 @@
 5. When you may need to write up a Stored Procedure?
 6. What's the difference between `InnerJoin` and `LeftJoin`?
 
-## Testing
-
-1. Do you test your code? How you do it?
-2. Do you write Automated Tests?
-3. What types of Automated Tests you know? Unit Tests vs. Integration vs. End-to-End?
-
 ## CSharp
 
 1. How does C# handle encapsulation?
@@ -47,6 +41,12 @@
 6. Stack vs. Heap?
 7. Yield.
 8. Generics.
+
+## Testing
+
+1. Do you test your code? How you do it?
+2. Do you write Automated Tests?
+3. What types of Automated Tests you know? Unit Tests vs. Integration vs. End-to-End?
 
 ## JavaScript
 
