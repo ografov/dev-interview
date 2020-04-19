@@ -37,7 +37,7 @@
 2. Explain nullable types.
 3. Extension methods.
 4. What's difference between `throw` and `throw ex`?
-5. When you would choose to define a type as a `struct` instead of `class` and why? 
+5. When you would choose to define a type as a `struct` instead of `class` and why?
 6. Stack vs. Heap?
 7. Yield.
 8. Generics.
@@ -55,9 +55,10 @@
 3. `function` vs. Arrow function?
 4. Closure?
 5. Higher order function?
-6. Ajax?
-7. Promise? Async/Await?
-8. Where would you save the autorization token? Cookies, sessions, localStorage, sessionStorage, indexedDB.
+6. Pure function?
+7. Ajax?
+8. Promise? Async/Await?
+9. Where would you save the autorization token? Cookies, sessions, localStorage, sessionStorage, indexedDB.
 
 ## HTML
 
@@ -68,7 +69,7 @@
 
 1. How would you make the content to look different on devices with different resolution?
 2. Can you apply styles only for specific browsers in CSS?
-3. What display types you know? block vs. inline-block.
+3. What display types you know? `block` vs. `inline-block`.
 4. What is CSS preprocessor and what kind of problems they solve?
 5. What is pseudo-elements and when they can be used?
 6. What is specificity?
