@@ -4,20 +4,19 @@
 
 1. Can you describe your common working day?
 2. What are the responsibilities and role you take on your current job?
-3. What was your recent project/task? Did you face with any interesting problem and how did you solve it?
-4. Do you have a code review at your current job? If you do, then how it is going? If you have any kind of argue with your colleague how do you settle it?
-5. How do you react when your coworker doing your code review and let you know that something could be done different o better?
-6. Do you have some Pet Projets? Do you spend your personal time for programming study?
-7. Do you make anything to increase the codebase maintanability level?
+3. What was your recent project/task? Did you solve some interesting problem that you want to talk about?
+4. Do you have a Code Review process at your current job? If you do, then how it is going? If you have any kind of argue with your colleague how do you settle it?
+6. Do you have some Pet Projets? Do you spend your personal time for studying the programming?
+7. Do you usually try to increase the health level of the codebase? Example?
 8. Do you visit the conferences/meetups? Why you do or don't?
 9. How do you like being developer and why?
-10. What’s your most success and failure stories?
+10. What’s your most success and failure stories in your career?
 
 ## General
 
 1. OOP. Three main object-oriented design principles?
 2. Principles. SOLID, KISS, DRY etc.
-3. Patterns. Which pattern you have used in your practice?
+3. Patterns. Which patterns you have used in your practice?
 4. Which Control Version Systems you've been used? What's the difference between SVN and GIT? Which Git commands are mostly used?
 5. What approaches or tools you use to debug and troubleshoot?
 6. Have you ever measure the performance? If yes, what tool(s) you find useful?
